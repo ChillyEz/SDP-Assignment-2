@@ -1,5 +1,5 @@
-public abstract class  Logistics {
+abstract class Logistics {
 
-    public abstract Object createTransport();
+    public abstract Transport createTransport();
 
 }
